@@ -1,0 +1,63 @@
+body {
+    background-color: #FFE3D4 ;
+    margin-right: 520px;
+}
+.h1_1 {
+    font-family: fantasy;
+    position: relative;
+    top: 100px;
+    left: 65%;
+    z-index: 2;
+}
+.header {
+    width: 500px;
+    height: 150px;
+    background-color: #C2AA9D;
+    border-radius: 20px;
+    position: relative;
+    left: 50%;
+    bottom: 15px;
+}
+.accesodirecto {
+    width:1370px;
+    height: 70px;
+    background-color: #B78C75;
+    position: relative;
+    bottom: 240px;
+    right: 10px;
+}
+
+.nosotros {
+    position: relative;
+    bottom: 285px;
+    left: 145%;
+    font-family: fantasy;
+    font-size: 150%;
+}
+
+.pastelcarne {
+    transition: all 0.6s ease;
+    position: relative;
+    left: 100px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+
+.pastelcarne:hover {
+    transition: all 0.4s ease;
+    filter: brightness(70%);
+}
+
+.pantomate {
+    transition: all 0.6s ease;
+    border-radius: 20px;
+    position: relative;
+    left: 150px;
+    bottom: 10px;
+    border: 2px solid black;
+}
+
+.pantomate:hover {
+    transition: all 0.4s ease;
+    filter: brightness(70%);
+}

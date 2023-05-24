@@ -1,0 +1,27 @@
+body {
+    background-color: #FFE3D4 ;
+    margin-right: 520px;
+}
+
+.ingredientes {
+    font-size: 180%;
+    position: relative;
+    left: 460px;
+}
+
+.instrucciones {
+    font-family: fantasy;
+    font-size: 170%;
+    position: relative;
+    left: 350px;
+
+}
+
+.boton1 {
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    border-color: black 1px;
+}

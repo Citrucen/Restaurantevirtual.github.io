@@ -1,0 +1,44 @@
+body {
+    background-color: #FFE3D4 ;
+    margin-right: 500px;
+    margin-bottom: -40%;
+}
+
+.ingredientes {
+    font-family: fantasy;
+}
+
+.boton1 {
+    transition: all 0.8s ease;
+    background-color: rgb(121, 213, 255);
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+    font-family: Brush Script MT;
+    border-radius: 20px;
+
+}
+
+.boton1 :hover {
+    transition: all 0.6 ease;
+    filter: brightness(70%);
+}
+
+.texto1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.recuadro {
+    width: 563px;
+    height: 405px;
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    right: 5px;
+    bottom: 873px;
+}
